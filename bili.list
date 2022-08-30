@@ -3,7 +3,6 @@
 USER-AGENT,bili*
 USER-AGENT,bili-inter*
 DOMAIN,apiintl.biliapi.net
-DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,p.bstarstatic.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,b23.tv
